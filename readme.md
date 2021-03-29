@@ -16,5 +16,7 @@ python3 discordBot.py &
 You can change the URL in the snkrsUK.py.
 
 ## Enjoy
-Please star it.
+![image-20210329094228775](./img/img.png)
+
+Please star it. You can also join my discord channel: https://discord.gg/CxceDmpcvb. Have fun!
 
